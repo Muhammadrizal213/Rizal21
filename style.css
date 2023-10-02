@@ -1,0 +1,20 @@
+.border1{
+    width: 200px;
+    border: 2px solid orange;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.border2{
+    width: 200px;
+    border: 2px solid blue;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.relative{
+    position: fixed;
+    bottom: 50px;
+    left: 15px;
+    right: 20px;
+}
